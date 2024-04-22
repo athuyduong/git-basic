@@ -1,2 +1,1 @@
 "tạo nhánh"
-git checkout -b add-it-conventions
